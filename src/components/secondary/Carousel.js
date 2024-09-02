@@ -23,6 +23,7 @@ const Carousel = () => {
       >
         <div className="relative min-w-full h-[42rem]">
           <h1 className="absolute text-white text-4xl transform -translate-x-1/2 -translate-y-1/2 top-[70%] left-1/2">Sabrina</h1>
+          <button className="absolute text-2xl text-white transform -translate-x-1/2 -translate-y-1/2 top-[80%] left-1/2">Ver Más</button>
           <img
             src="https://m.media-amazon.com/images/M/MV5BMzQ3NGU3YzEtYzBhZi00NWU1LTlhOTMtNTlmZGNhZWRlYTU3XkEyXkFqcGdeQXVyOTQ2NDAwNzg@._V1_.jpg"
             className="object-cover w-full h-full"
@@ -31,6 +32,7 @@ const Carousel = () => {
         </div>
         <div className="relative min-w-full h-[42rem]">
           <h1 className="absolute text-white text-4xl transform -translate-x-1/2 -translate-y-1/2 top-[70%] left-1/2">Más Allá Del Perdón</h1>
+          <button className="absolute text-2xl text-white transform -translate-x-1/2 -translate-y-1/2 top-[80%] left-1/2">Ver Más</button>
           <img
             src="https://m.media-amazon.com/images/M/MV5BMzNkMGFjNzgtNDlhYS00MTUwLTg2NTgtNzhjNDc3ZGI1NzAxXkEyXkFqcGdeQXVyOTQ2NDAwNzg@._V1_.jpg"
             className="object-cover w-full h-full"
@@ -39,6 +41,7 @@ const Carousel = () => {
         </div>
         <div className="relative min-w-full h-[42rem]">
           <h1 className="absolute text-white text-4xl transform -translate-x-1/2 -translate-y-1/2 top-[70%] left-1/2">Estacionamiento Para Dos</h1>
+          <button className="absolute text-2xl text-white transform -translate-x-1/2 -translate-y-1/2 top-[80%] left-1/2">Ver Más</button>
           <img
             src="https://m.media-amazon.com/images/M/MV5BOGJkNGI2NzgtM2E4Ni00MjNmLWIxZTAtNTYxOWQzYmYyMDA3XkEyXkFqcGc@._V1_.jpg"
             className="object-cover w-full h-full"
@@ -47,6 +50,7 @@ const Carousel = () => {
         </div>
         <div className="relative min-w-full h-[42rem]">
           <h1 className="absolute text-white text-4xl transform -translate-x-1/2 -translate-y-1/2 top-[70%] left-1/2">El Hombre Flotante</h1>
+          <button className="absolute text-2xl text-white transform -translate-x-1/2 -translate-y-1/2 top-[80%] left-1/2">Ver Más</button>
           <img
             src="https://img.daisyui.com/images/stock/photo-1665553365602-b2fb8e5d1707.webp"
             className="object-cover w-full h-full"
